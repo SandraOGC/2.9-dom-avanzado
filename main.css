@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+
+.list{
+    font-family: "DK Crayon Crumble";
+    color: white;
+    list-style: none;
+}
